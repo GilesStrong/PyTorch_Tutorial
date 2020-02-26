@@ -1,6 +1,8 @@
 
 # PyTorch Tutorial - Originally presented at IST's 6ªs Jornadas de Engenharia Física: 
 
+[Presentation with GIFs](https://docs.google.com/presentation/d/1BbhZC7YhcVaJ3TL1EbW2QH4zNe2ZifWaqHzgyYssi1g/edit?usp=sharing)
+
 ## Running
 
 The tutorial may either be run via Google Colab by clicking the blue badges, or directly by installing the appropriate Python modules yourself.
