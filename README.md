@@ -1,4 +1,6 @@
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3688667.svg)](https://doi.org/10.5281/zenodo.3688667)
+
 # PyTorch Tutorial - Originally presented at IST's 6ªs Jornadas de Engenharia Física: 
 
 [Presentation with GIFs](https://docs.google.com/presentation/d/1BbhZC7YhcVaJ3TL1EbW2QH4zNe2ZifWaqHzgyYssi1g/edit?usp=sharing)
